@@ -1,6 +1,6 @@
 # CovTransformer: A transformer model for SARS-CoV-2 lineage frequency     forecasting
 
-Code accompanying our manuscript will be posted here soon...
+**Todo: add description
 
 ## Legal
 
