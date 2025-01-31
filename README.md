@@ -1,6 +1,10 @@
 # CovTransformer: A transformer model for SARS-CoV-2 lineage frequency     forecasting
 
-**Todo: add description
+Feng Y, Goldberg EE, Kupperman M, Zhang X, Lin Y, Ke R.
+2024.
+CovTransformer: A transformer model for SARS-CoV-2 lineage frequency forecasting.
+Virus Evolution. 10:veae086.
+https://doi.org/10.1093/ve/veae086
 
 ## Legal
 
